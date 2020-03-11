@@ -20,7 +20,7 @@
    
    ### Usage: 
 
-   As a develop, this project provides a template for readily generating a ReadMe document for a new project.
+   This class project provides a simple template for booking reservations and defaulting to a waitlist once tables are at capacity.
    
    #### License: 
 
